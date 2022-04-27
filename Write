@@ -1,3 +1,0 @@
-f=open("tp.txt")
-content=f.read()
-print(content)
